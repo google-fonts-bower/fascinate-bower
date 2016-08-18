@@ -1,0 +1,17 @@
+{
+    "name": "fascinate-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/fascinate-bower.git"
+    },
+    "description": "Fascinate font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
